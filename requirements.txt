@@ -17,6 +17,7 @@ Flask-Cors==5.0.0
 flatbuffers==24.3.25
 fonttools==4.53.1
 fsspec==2024.10.0
+gunicorn==23.0.0
 hidapi==0.14.0.post2
 idna==3.10
 imageio==2.36.0
